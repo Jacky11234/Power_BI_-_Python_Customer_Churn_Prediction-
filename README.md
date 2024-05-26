@@ -1,6 +1,6 @@
-Power BI Dashboard https://app.powerbi.com/view?r=eyJrIjoiNjczY2U0Y2UtNzcwNy00OGQ2LWIzZDUtOGFhZTU0ZTJiMDQzIiwidCI6ImQzM2I1MjRlLTAyMDEtNDY5Ni1hNjIzLWE5NTEzMjIyNmM4ZiJ9
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjczY2U0Y2UtNzcwNy00OGQ2LWIzZDUtOGFhZTU0ZTJiMDQzIiwidCI6ImQzM2I1MjRlLTAyMDEtNDY5Ni1hNjIzLWE5NTEzMjIyNmM4ZiJ9)
 
-Python Customer Churn Prediction https://jacky2-7331dc6bc45d.herokuapp.com/
+[Python Customer Churn Prediction](https://jacky2-7331dc6bc45d.herokuapp.com/)
 
 # Customer Churn Analysis and Prediction
 
